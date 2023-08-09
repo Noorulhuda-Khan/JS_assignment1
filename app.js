@@ -17,7 +17,7 @@
 
 // Q1.5
 
-// alert("Hello...i can run it through browser's console");
+alert("Hello...i can run it through browser's console");
 
 // Q1.6 
 // Done

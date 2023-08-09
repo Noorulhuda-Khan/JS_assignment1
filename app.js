@@ -24,5 +24,7 @@ alert("Hello...i can run it through browser's console");
 
 
 // Q1.7
+// Done in html file
+
 
 

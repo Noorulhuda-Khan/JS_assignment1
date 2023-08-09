@@ -79,7 +79,18 @@
 
 // alert("▬▬▬▬▬▬▬▬▬ஜ ۩۞۩ ஜ▬▬▬▬▬▬▬▬▬")
 
+// Q3.1
 
+// var age=28;
+// alert("I am "+age+" years old" )
+
+
+// Q3.3
+
+// var birthYear=1994;
+// document.write("My birth year is "+ birthYear + "<br>" +" Data type is number")
+
+// Q3.4
 
 
 

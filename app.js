@@ -98,6 +98,53 @@
 
 
 
+// Q5.1
+
+// var a=3;
+// var b=5;
+
+// var c= a+b;
+
+// document.write("Sum of 3 & 5 is "+c)
+
+// Q5.2
+
+// var a=3;
+// var b=5;
+
+// var c= a-b;
+
+// document.write("Subtraction of 3 & 5 is "+c+"<br/>")
+
+
+// var a=3;
+// var b=5;
+
+// var c= a*b;
+
+// document.write("Product of 3 & 5 is "+c+"<br/>")
+
+
+// var a=3;
+// var b=5;
+
+// var c= a/b;
+
+// document.write("Division of 3 & 5 is "+c+"<br/>")
+
+
+
+// Q5.4
+
+
+
+// var ticketPrice = 600;
+
+// var n =5;
+// var price= n * ticketPrice
+
+// document.write("Total cost to buy "+n+" tickets is "+price);
+
 
 
 
